@@ -243,9 +243,9 @@ export default function BookingModal({ isOpen, onClose, preselectedProgramId }) 
                       onChange={(e) => setFormData({ ...formData, courtLocation: e.target.value })}
                       className="w-full bg-[#151515] border border-white/10 px-3.5 py-2.5 text-xs text-white focus:outline-none focus:border-[#8DF000] font-sans cursor-pointer"
                     >
+                      <option value="Al Jaddaf (Swiss International School) — 150 AED">Al Jaddaf (Swiss International School) — 150 AED</option>
+                      <option value="Business Bay Tennis Location — 350 AED">Business Bay Tennis Location — 350 AED</option>
                       <option value="Dubai Sports City (Center Courts)">Dubai Sports City (Center Courts)</option>
-                      <option value="Jumeirah Golf Estates Academy">Jumeirah Golf Estates Academy</option>
-                      <option value="Al Wasl Championship Hardcourt">Al Wasl Championship Hardcourt</option>
                       <option value="Private Villa / Club Court (On-Site)">Private Villa / Club Court (On-Site)</option>
                     </select>
                   </div>

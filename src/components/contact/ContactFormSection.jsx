@@ -222,7 +222,7 @@ export default function ContactFormSection() {
             <div className="relative pt-4">
               <div className="relative overflow-hidden bg-[#151515] border border-white/15 shadow-2xl">
                 <img
-                  src="/contact/coach-player.jpg"
+                  src="https://res.cloudinary.com/q5fz3r2n/image/upload/coach-playerr"
                   alt="Lion Elite tennis coach providing feedback and tactical instructions to player beside the court"
                   loading="lazy"
                   className="w-full aspect-[4/3] object-cover object-center filter contrast-105"
@@ -291,7 +291,7 @@ export default function ContactFormSection() {
 
                   <div className="flex flex-col sm:flex-row gap-4">
                     <a
-                      href={`https://wa.me/971500000000?text=${encodeURIComponent(`Hello Lion Elite, I just submitted enquiry ${submittedData.referenceId} for ${submittedData.interestedIn}. My name is ${submittedData.fullName}.`)}`}
+                      href={`https://wa.me/971552766535?text=${encodeURIComponent(`Hello Lion Elite, I just submitted enquiry ${submittedData.referenceId} for ${submittedData.interestedIn}. My name is ${submittedData.fullName}.`)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-[#8CE600] hover:bg-white text-[#050505] font-display text-xs font-bold tracking-wider uppercase transition-colors"

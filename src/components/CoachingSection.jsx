@@ -38,7 +38,7 @@ export default function CoachingSection({ onOpenBooking }) {
             <div className="relative z-10 bg-[#151515] border border-white/10 shadow-2xl p-2 sm:p-3">
               <div className="relative overflow-hidden aspect-[4/3] sm:aspect-[14/11]">
                 <img
-                  src="/assets/images/coach-player.jpg"
+                  src="https://res.cloudinary.com/q5fz3r2n/image/upload/coach-playerr"
                   alt="Lion Elite head coach communicating tactical instructions to player beside the tennis net"
                   className="w-full h-full object-cover object-center filter contrast-105"
                   loading="lazy"

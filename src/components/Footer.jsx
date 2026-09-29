@@ -143,20 +143,20 @@ export default function Footer({ onOpenBooking, onNavigate }) {
               </div>
               <div className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-[#8DF000] shrink-0" />
-                <a href="tel:+97148008366" className="hover:text-white transition-colors">
-                  +971 4 800 8366
+                <a href="tel:+971552766535" className="hover:text-white transition-colors">
+                  +971 55 276 6535
                 </a>
               </div>
               <div className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-[#8DF000] shrink-0" />
-                <a href="mailto:info@lionelitetennis.ae" className="hover:text-white transition-colors">
-                  info@lionelitetennis.ae
+                <a href="mailto:lionelitetennis890@gmail.com" className="hover:text-white transition-colors">
+                  lionelitetennis890@gmail.com
                 </a>
               </div>
               <div className="flex items-center gap-2.5">
                 <MessageSquare className="w-4 h-4 text-[#8DF000] shrink-0" />
                 <a
-                  href="https://wa.me/971500000000"
+                  href="https://wa.me/971552766535"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-[#8DF000] transition-colors font-semibold"

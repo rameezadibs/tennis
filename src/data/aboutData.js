@@ -17,7 +17,7 @@ export const aboutHeroData = {
   secondaryParagraph: "Through structured professional tennis coaching, individual stroke refinement, and a competitive training environment in Dubai, we help players of all levels build superior technique, tactical game intelligence, and competitive confidence.",
   primaryCtaText: "DISCOVER OUR APPROACH ↓",
   primaryCtaTarget: "#who-we-are",
-  heroImage: "/assets/images/about-hero-coaching.jpg",
+  heroImage: "https://res.cloudinary.com/q5fz3r2n/image/upload/about-hero-coaching",
   heroImageAlt: "Head tennis coach analyzing player stroke technique at Lion Elite Tennis Academy Dubai",
   detailImage: "/assets/images/about-hero-detail.jpg",
   detailImageAlt: "Tennis player wrapping fresh racket overgrip tape during private coaching lesson in Dubai",
@@ -52,7 +52,7 @@ export const aboutWhoWeAreData = {
     "JUNIOR & ADULT COACHING TRACKS",
     "COMPETITIVE MATCH SIMULATIONS"
   ],
-  transitionImage: "/about/who we are.png",
+  transitionImage: "https://res.cloudinary.com/q5fz3r2n/image/upload/who_we_are",
   transitionImageAlt: "Lion Elite Tennis Academy professional player development training session on court in Dubai UAE"
 };
 
@@ -343,6 +343,6 @@ export const aboutFinalCtaData = {
   primaryCtaText: "START TENNIS COACHING IN DUBAI →",
   secondaryCtaText: "EXPLORE DUBAI PROGRAMS",
   secondaryHref: "#programs",
-  ctaImage: "/about/CTA.png",
+  ctaImage: "https://res.cloudinary.com/q5fz3r2n/image/upload/CTAAA",
   ctaImageAlt: "Lion Elite Tennis Academy Dubai player development coaching session on court"
 };

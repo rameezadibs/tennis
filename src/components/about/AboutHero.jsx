@@ -23,7 +23,7 @@ export default function AboutHero() {
       <meta itemProp="name" content="Lion Elite Tennis Academy Dubai" />
       <meta itemProp="sport" content="Tennis" />
       <meta itemProp="url" content="https://lionelitetennis.ae/about" />
-      <meta itemProp="telephone" content="+97148008366" />
+      <meta itemProp="telephone" content="+971552766535" />
       <meta itemProp="address" content="Al Wasl Road, Jumeirah & Dubai Sports City Courts, Dubai, UAE" />
 
       {/* Editorial Gridlines / Baseline Technical Markings */}

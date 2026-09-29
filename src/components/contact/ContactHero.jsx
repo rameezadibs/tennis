@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { ArrowDown, MessageCircle, ArrowUpRight } from 'lucide-react';
 
 export default function ContactHero({ onEnquiryClick }) {
-  const actualWhatsAppUrl = "https://wa.me/971500000000?text=Hello%20Lion%20Elite,%20I%20would%20like%20to%20enquire%20about%20tennis%20training%20in%20Dubai.";
+  const actualWhatsAppUrl = "https://wa.me/971552766535?text=Hello%20Lion%20Elite,%20I%20would%20like%20to%20enquire%20about%20tennis%20training%20in%20Dubai.";
 
   return (
     <section 
@@ -147,7 +147,7 @@ export default function ContactHero({ onEnquiryClick }) {
                 {/* Vertical Photographic Strip Container */}
                 <div className="relative aspect-[3/4.6] overflow-hidden bg-[#0A0A0A]">
                   <img
-                    src="/contact/hero-strip.jpg"
+                    src="https://res.cloudinary.com/q5fz3r2n/image/upload/hero-strip"
                     alt="Lion Elite tennis player holding racket by the court net ready for training session"
                     loading="eager"
                     className="w-full h-full object-cover object-center filter grayscale-[15%] contrast-105 hover:scale-105 transition-transform duration-700 ease-out"

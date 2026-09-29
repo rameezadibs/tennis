@@ -24,9 +24,9 @@ export default function ExperienceSection() {
           className="w-full h-full"
         >
           <picture className="w-full h-full block">
-            <source media="(max-width: 767px)" srcSet="/mobile_experience.png" />
+            <source media="(max-width: 767px)" srcSet="https://res.cloudinary.com/q5fz3r2n/image/upload/mobile_experience" />
             <img
-              src="/1.png"
+              src="https://res.cloudinary.com/q5fz3r2n/image/upload/1"
               alt="The Lion Elite Tennis Experience"
               className="w-full h-full object-cover object-center filter brightness-65 contrast-110"
               loading="lazy"

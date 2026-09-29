@@ -69,8 +69,8 @@ export default function ContactPage({ onOpenBooking, onNavigate }) {
         "alternateName": "Lion Elite Tennis Academy Middle East",
         "description": "Contact Lion Elite Tennis Academy in Dubai for junior, adult and private tennis coaching. Enquire about training programs and book your next session.",
         "url": "https://lionelitetennis.ae/contact",
-        "telephone": "+971 4 800 8366",
-        "email": "info@lionelitetennis.ae",
+        "telephone": "+971 55 276 6535",
+        "email": "lionelitetennis890@gmail.com",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Dubai Healthcare City Phase 2",
@@ -99,7 +99,7 @@ export default function ContactPage({ onOpenBooking, onNavigate }) {
         "priceRange": "$$$",
         "contactPoint": {
           "@type": "ContactPoint",
-          "telephone": "+971 4 800 8366",
+          "telephone": "+971 55 276 6535",
           "contactType": "customer service",
           "availableLanguage": ["English", "Arabic", "French"],
           "areaServed": "Dubai, UAE"

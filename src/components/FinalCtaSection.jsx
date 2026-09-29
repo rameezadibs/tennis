@@ -105,7 +105,7 @@ export default function FinalCtaSection({ onOpenBooking }) {
           </button>
 
           <a
-            href="https://wa.me/971500000000"
+            href="https://wa.me/971552766535"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-3 px-8 py-4 bg-transparent border border-white/20 text-white font-display text-base font-bold tracking-wider uppercase transition-all duration-300 hover:border-[#8DF000] hover:text-[#8DF000]"
@@ -124,7 +124,7 @@ export default function FinalCtaSection({ onOpenBooking }) {
           <span className="text-neutral-600">•</span>
           <div className="flex items-center gap-2">
             <Phone className="w-3.5 h-3.5 text-[#8DF000]" />
-            <span>+971 4 800 8366</span>
+            <span>+971 55 276 6535</span>
           </div>
           <span className="text-neutral-600">•</span>
           <span className="text-[#8DF000]">GST TIME ZONE (UTC+4)</span>

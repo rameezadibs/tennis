@@ -17,9 +17,9 @@ export default function HeroSection({ onOpenBooking }) {
           className="w-full h-full"
         >
           <picture className="w-full h-full block">
-            <source media="(max-width: 767px)" srcSet="/mobile_hero.png" />
+            <source media="(max-width: 767px)" srcSet="https://res.cloudinary.com/q5fz3r2n/image/upload/mobile_hero" />
             <img
-              src="/hero.png"
+              src="https://res.cloudinary.com/q5fz3r2n/image/upload/hero"
               alt="Lion Elite Tennis Academy professional hero"
               className="w-full h-full object-cover object-center"
               loading="eager"

@@ -85,7 +85,7 @@ export default function ContactFinalCta({ onOpenBooking, onNavigate }) {
               {/* Photograph Frame */}
               <div className="relative overflow-hidden bg-[#151515] border border-white/15 shadow-2xl">
                 <img
-                  src="/contact/cta-ball.jpg"
+                  src="https://res.cloudinary.com/q5fz3r2n/image/upload/cta-ball"
                   alt="Close-up of an athletic player's hand holding a crisp optic yellow tennis ball on a dark court ready to serve"
                   loading="lazy"
                   className="w-full aspect-[4/3.5] object-cover object-center filter contrast-105 hover:scale-105 transition-transform duration-700 ease-out"

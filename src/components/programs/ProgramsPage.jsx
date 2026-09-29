@@ -254,7 +254,7 @@ function ProgramsHero({ onOpenBooking }) {
               <div className="absolute bottom-2 right-2 w-3 h-3 border-b-2 border-r-2 border-[#8CE600] z-20" />
 
               <img
-                src="/programs-hero.jpg"
+                src="https://res.cloudinary.com/q5fz3r2n/image/upload/programs-hero"
                 alt="Tennis Programs Dubai - Lion Elite Tennis Academy Junior and Adult Coaching"
                 width={520}
                 height={650}
@@ -695,7 +695,7 @@ function ProgramsFinalCta({ onOpenBooking }) {
       {/* Background CTA Image from /programs/CTA.png - Full visibility background asset */}
       <div className="absolute inset-0 pointer-events-none overflow-hidden z-0 opacity-40">
         <img
-          src="/programs/CTA.png"
+          src="https://res.cloudinary.com/q5fz3r2n/image/upload/CTA"
           alt="Lion Elite Tennis Academy Dubai Programs CTA"
           loading="lazy"
           decoding="async"
@@ -738,7 +738,7 @@ function ProgramsFinalCta({ onOpenBooking }) {
             </button>
 
             <a
-              href="https://wa.me/971500000000"
+              href="https://wa.me/971552766535"
               target="_blank"
               rel="noopener noreferrer"
               title="Contact Lion Elite Tennis Academy Dubai on WhatsApp"

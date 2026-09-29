@@ -46,8 +46,8 @@ export default function AboutPage({ onOpenBooking, onNavigate }) {
         "alternateName": ["Lion Elite Tennis Academy Dubai", "Lion Elite Tennis Dubai"],
         "description": "Premier professional tennis academy in Dubai offering structured tennis coaching, player development pathways, private lessons, and high-performance training.",
         "url": "https://lionelitetennis.ae/about",
-        "telephone": "+97148008366",
-        "email": "info@lionelitetennis.ae",
+        "telephone": "+971552766535",
+        "email": "lionelitetennis890@gmail.com",
         "areaServed": [
           {
             "@type": "City",

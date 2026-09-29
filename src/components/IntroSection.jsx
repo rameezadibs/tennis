@@ -87,7 +87,7 @@ export default function IntroSection({ onOpenBooking }) {
                 whileInView={{ scale: 1, opacity: 1 }}
                 viewport={{ once: true }}
                 transition={{ duration: 1.2, ease: "easeOut" }}
-                src="/assets/images/intro-action.jpg"
+                src="https://res.cloudinary.com/q5fz3r2n/image/upload/intro-action"
                 alt="Elite tennis player executing a high-tempo running forehand on Dubai hardcourt at Lion Elite Tennis Academy"
                 title="Lion Elite Tennis Academy Dubai - High Performance Training"
                 className="w-full h-[460px] sm:h-[540px] object-cover object-center filter contrast-105"

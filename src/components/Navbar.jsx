@@ -74,7 +74,7 @@ export default function Navbar({ onOpenBooking, activePage = "HOME", onNavigate 
               src="/logo.png"
               alt="Lion Elite Tennis Academy Logo"
               className={`w-auto object-contain transition-all duration-300 group-hover:scale-105 ${
-                scrolled ? "h-12 sm:h-14 md:h-16" : "h-16 sm:h-20 md:h-22 lg:h-24"
+                scrolled ? "h-14 sm:h-16 md:h-18" : "h-20 sm:h-24 md:h-28 lg:h-32"
               }`}
             />
           </a>
@@ -106,14 +106,14 @@ export default function Navbar({ onOpenBooking, activePage = "HOME", onNavigate 
           {/* Right Action CTA */}
           <div className="hidden sm:flex items-center gap-4">
             <a
-              href="https://wa.me/971500000000"
+              href="https://wa.me/971552766535"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden xl:flex items-center gap-2 text-xs font-mono text-[#B9B9B9] hover:text-[#8DF000] transition-colors py-1.5 px-2.5 border border-white/10 hover:border-[#8DF000]/40"
               title="Quick WhatsApp Chat"
             >
               <Phone className="w-3.5 h-3.5 text-[#8DF000]" />
-              <span>+971 4 800 8366</span>
+              <span>+971 55 276 6535</span>
             </a>
 
             <button
@@ -187,7 +187,7 @@ export default function Navbar({ onOpenBooking, activePage = "HOME", onNavigate 
               </button>
 
               <div className="text-center font-mono text-[11px] text-[#B9B9B9] pt-2">
-                DUBAI, UNITED ARAB EMIRATES • +971 4 800 8366
+                DUBAI, UNITED ARAB EMIRATES • +971 55 276 6535
               </div>
             </div>
           </motion.div>

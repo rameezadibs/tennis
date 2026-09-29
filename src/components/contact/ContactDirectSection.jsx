@@ -2,9 +2,9 @@ import React from 'react';
 import { ArrowUpRight, ArrowRight, MessageSquare, Mail, MapPin, Navigation } from 'lucide-react';
 
 export default function ContactDirectSection({ onNavigate }) {
-  const actualWhatsAppNumber = "+971 4 800 8366";
-  const actualWhatsAppChatUrl = "https://wa.me/971500000000?text=Hello%20Lion%20Elite,%20I%20would%20like%20to%20enquire%20about%20tennis%20sessions%20at%20your%20Al%20Jaddaf%20training%20facility.";
-  const actualEmail = "info@lionelitetennis.ae";
+  const actualWhatsAppNumber = "+971 55 276 6535";
+  const actualWhatsAppChatUrl = "https://wa.me/971552766535?text=Hello%20Lion%20Elite,%20I%20would%20like%20to%20enquire%20about%20tennis%20sessions%20at%20your%20Al%20Jaddaf%20training%20facility.";
+  const actualEmail = "lionelitetennis890@gmail.com";
   const googleMapsUrl = "https://maps.app.goo.gl/hrLRsoCudoPXbSHV9?g_st=ac";
   const embedMapUrl = "https://maps.google.com/maps?q=Swiss+International+Scientific+School+in+Dubai,+Al+Jaddaf,+Dubai&t=&z=15&ie=UTF8&iwloc=&output=embed";
 
